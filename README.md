@@ -39,7 +39,7 @@ The dataset used is the **Credit Card Fraud Detection** dataset from Kaggle.
 | `Amount` | Transaction amount |
 | `Class` | 0 = Legitimate, 1 = Fraudulent |
 
-> ⚠️ The dataset is highly imbalanced — only ~0.17% of transactions are fraudulent.
+> ⚠️ The dataset is highly imbalanced — only *~0.17%* of transactions are fraudulent.
 
 ---
 
@@ -49,7 +49,7 @@ The dataset used is the **Credit Card Fraud Detection** dataset from Kaggle.
 2. **Preprocessing** — Feature scaling using `StandardScaler`
 3. **Handling Class Imbalance** — Undersampling / Oversampling (SMOTE)
 4. **Model Training** — Classification algorithm (e.g., Logistic Regression / Random Forest)
-5. **Evaluation** — Confusion matrix, Precision, Recall, F1-Score, ROC-AUC
+5. **Evaluation** — Confusion matrix, Precision, Recall, F1-Score.
 
 ---
 
