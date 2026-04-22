@@ -6,7 +6,7 @@ A machine learning project that detects fraudulent credit card transactions usin
 
 ## 📌 Project Overview
 
-Credit card fraud is a major financial problem worldwide. This project builds a binary classification model to distinguish between **legitimate** and **fraudulent** transactions based on anonymized transaction features.
+Credit card fraud is a major financial issue around the world. In this project, we create a model that can tell whether a transaction is genuine or fraudulent. The model looks at different hidden (anonymized) features of each transaction and classifies them into two categories: real or fraud.
 
 ---
 
