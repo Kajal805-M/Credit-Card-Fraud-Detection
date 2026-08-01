@@ -85,6 +85,7 @@ Download `creditcard.csv` from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/
 ### 4. Run the notebook
 ```bash
 jupyter notebook app.ipynb
+VS code
 ```
 
 ---
