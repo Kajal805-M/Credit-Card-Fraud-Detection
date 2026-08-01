@@ -140,6 +140,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 👩‍💻 Author
 
-**Kajal** — [GitHub Profile](https://github.com/Kajal805-M)
+**Kajal Maurya** — [GitHub Profile](https://github.com/Kajal805-M)
 
 > ⭐ If you found this project helpful, please consider giving it a star!
